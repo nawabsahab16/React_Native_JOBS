@@ -25,6 +25,8 @@ const styles = StyleSheet.create({
     height: 50,
   },
   searchWrapper: {
+
+    
     flex: 1,
     backgroundColor: COLORS.white,
     marginRight: SIZES.small,

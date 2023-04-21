@@ -12,3 +12,5 @@ const Nearbyjobs = () => {
 }
 
 export default Nearbyjobs
+
+

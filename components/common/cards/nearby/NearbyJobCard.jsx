@@ -12,3 +12,4 @@ const NearbyJobCard = () => {
 }
 
 export default NearbyJobCard
+

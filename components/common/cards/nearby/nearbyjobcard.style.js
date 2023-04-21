@@ -15,6 +15,8 @@ const styles = StyleSheet.create({
     shadowColor: COLORS.white,
   },
   logoContainer: {
+
+    
     width: 50,
     height: 50,
     backgroundColor: COLORS.white,

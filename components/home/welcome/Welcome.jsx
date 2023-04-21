@@ -18,7 +18,8 @@ const Welcome = () => {
    const router = useRouter();
   return (
     <View>
-      <View style={styles.container}>
+
+         <View style={styles.container}>   
         <Text style={styles.userName}> Hello Sameer !</Text>
         <Text style={styles.welcomeMessage}>Find your perfect Job</Text>
     </View> 
